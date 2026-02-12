@@ -70,4 +70,4 @@ We don't just block known bad sites; we protect you from **Homoglyph (look-alike
 
 ---
 
-**Developed with 💚 for the CyberSec Community.**
+**Developed with 💚 for the b1swa for Personal Sec**
