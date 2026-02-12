@@ -1,6 +1,7 @@
 # b1swa - The Ultimate CyberSec Command Center
 
-![b1swa Dashboard Final](file:///home/sandip/.gemini/antigravity/brain/42fda0a0-2658-4659-b31f-a90bc0ce46e2/b1swa_dashboard_final_1770927461150.png)
+![b1swa Dashboard Final](<img src="./assets/b1swa_dashboard_final_1770927461150.png" style="width:6.5in;height:2.69792in" />)
+
 
 > **`>_ b1swa - Stay Protected. Stay Anonymous. Stay Elite.`**
 
