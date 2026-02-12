@@ -1,7 +1,6 @@
 # b1swa - The Ultimate CyberSec Command Center
 
-![b1swa Dashboard Final](<img src="b1swa-theme_1.0/assets/b1swa_dashboard_final_1770927461150.png" width="800">)
-
+<img src="./assets/b1swa_dashboard_final_1770927461150.png"/>
 
 > **`>_ b1swa - Stay Protected. Stay Anonymous. Stay Elite.`**
 
